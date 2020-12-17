@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f8c7f37e.chunk.css",
+    "main.js": "/static/js/main.8c50b370.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.655518cc.js",
+    "static/css/2.d4b23571.chunk.css": "/static/css/2.d4b23571.chunk.css",
+    "static/js/2.630ab54a.chunk.js": "/static/js/2.630ab54a.chunk.js",
+    "static/js/3.457fd1a9.chunk.js": "/static/js/3.457fd1a9.chunk.js",
+    "static/js/4.e11dd427.chunk.js": "/static/js/4.e11dd427.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.46f5119bd9b74447af5a5eeeda5fc28c.js": "/precache-manifest.46f5119bd9b74447af5a5eeeda5fc28c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.630ab54a.chunk.js.LICENSE.txt": "/static/js/2.630ab54a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/muli-latin-900italic.fb9b3ba4.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.655518cc.js",
+    "static/css/2.d4b23571.chunk.css",
+    "static/js/2.630ab54a.chunk.js",
+    "static/css/main.f8c7f37e.chunk.css",
+    "static/js/main.8c50b370.chunk.js"
+  ]
+}
