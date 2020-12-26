@@ -6,7 +6,7 @@ import RegisterPageConfig from './auth/register/RegisterPageConfig';
 
 
 const pagesConfigs = [
-    LoginPageConfig,RegisterPageConfig
+    LoginPageConfig,RegisterPageConfig,
 ]
 
 

@@ -1,5 +1,6 @@
 import { authRoles } from 'app/auth';
-import Sales from './Sales'
+import SalesHead from './SalesHead';
+
 
 const SalesConfig = {
     settings: {
@@ -11,8 +12,9 @@ const SalesConfig = {
 	routes: [
 		{
 			path: '/sales',
-			component: Sales
+			component: SalesHead
 		}
+		
 	]
 }
 

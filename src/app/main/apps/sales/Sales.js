@@ -1,11 +1,14 @@
 import React from 'react'
+import SalesHead from './SalesHead';
+import SalesTable from './SalesTable';
 
 function Sales() {
     return (
         <div>
-            <h1>Sales</h1>
+            {<SalesHead />}
+			{<SalesTable />}
         </div>
     )
 }
 
-export default Sales;
+export default Sales

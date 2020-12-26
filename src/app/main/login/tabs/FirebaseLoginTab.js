@@ -37,7 +37,7 @@ function FirebaseLoginTab(props) {
 
 	function handleSubmit(model) {
         dispatch(submitLoginWithFireBase(model));
-        history.push('/example');
+        history.push('/home');
 	}
 
 	return (
