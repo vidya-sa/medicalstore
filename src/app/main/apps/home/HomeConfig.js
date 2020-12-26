@@ -6,7 +6,23 @@ import Home from './Home';
 const HomeConfig = {
 	settings: {
 		layout: {
-			config: {}
+			config: {
+				navbar: {
+					display: true
+				},
+				toolbar: {
+					display: true
+				},
+				footer: {
+					display: true
+				},
+				leftSidePanel: {
+					display: true
+				},
+				rightSidePanel: {
+					display: true
+				}
+			}
 		}
 	},
 	auth: authRoles.onlyGuest,
