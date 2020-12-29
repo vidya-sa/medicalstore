@@ -1,41 +1,14 @@
-import DemoContent from '@fuse/core/DemoContent';
-import FusePageSimple from '@fuse/core/FusePageSimple';
-import { makeStyles } from '@material-ui/core/styles';
 import React from 'react';
-import { useTranslation } from 'react-i18next';
+import PurchaseHeadRecord from './PurchaseHeadRecord';
+import PurchaseTableRecord from './PurchaseTableRecord';
 
-const useStyles = makeStyles(theme => ({
-	layoutRoot: {}
-}));
-
-function Record(props) {
-	const classes = useStyles(props);
-	const { t } = useTranslation('Inventory');
-
-	return (
-		<FusePageSimple
-			classes={{
-				root: classes.layoutRoot
-			}}
-			header={
-				<div className="p-24">
-					<h4>{t('TITLE')}</h4>
-				</div>
-			}
-			contentToolbar={
-				<div className="px-24">
-					<h4>Content Toolbar</h4>
-				</div>
-			}
-			content={
-				<div className="p-24">
-					<h4>Content</h4>
-					<br />
-					<DemoContent />
-				</div>
-			}
-		/>
-	);
+function Record() {
+    return (
+        <div>
+            <PurchaseHeadRecord/>
+            <PurchaseTableRecord/>
+        </div>
+    )
 }
 
 export default Record;
