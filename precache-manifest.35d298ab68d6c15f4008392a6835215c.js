@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ccaa51ad0adb227f8025c3d188725e3",
+    "revision": "86c4781b167f0977e6989b443081bb46",
     "url": "/medicalstore/index.html"
   },
   {
-    "revision": "55665cebd7333a7d5ce7",
+    "revision": "09c1ddf04aec98727886",
     "url": "/medicalstore/static/css/2.a45d04f3.chunk.css"
   },
   {
-    "revision": "81ddc5e4402ad9b37b31",
+    "revision": "a7337d971768c9394a22",
     "url": "/medicalstore/static/css/main.1480360e.chunk.css"
   },
   {
-    "revision": "55665cebd7333a7d5ce7",
-    "url": "/medicalstore/static/js/2.b909f6c7.chunk.js"
+    "revision": "09c1ddf04aec98727886",
+    "url": "/medicalstore/static/js/2.46f7e453.chunk.js"
   },
   {
-    "revision": "9876bc79fe3ab9fb691086e384158a39",
-    "url": "/medicalstore/static/js/2.b909f6c7.chunk.js.LICENSE.txt"
+    "revision": "74408f1b8859181d23c4e433c5cc2d29",
+    "url": "/medicalstore/static/js/2.46f7e453.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8f8a0c6d1c3e5f9bc195",
-    "url": "/medicalstore/static/js/3.88862cd8.chunk.js"
+    "revision": "3a8369b1759850151125",
+    "url": "/medicalstore/static/js/3.2af29c9a.chunk.js"
   },
   {
-    "revision": "b892a4947c1884aeadb3",
-    "url": "/medicalstore/static/js/4.fb7857d0.chunk.js"
+    "revision": "d788bcbdc72baf2330a1",
+    "url": "/medicalstore/static/js/4.6119aa68.chunk.js"
   },
   {
-    "revision": "81ddc5e4402ad9b37b31",
-    "url": "/medicalstore/static/js/main.bcb55906.chunk.js"
+    "revision": "a7337d971768c9394a22",
+    "url": "/medicalstore/static/js/main.8f9482f9.chunk.js"
   },
   {
-    "revision": "ed2943197a40bd70a8a8",
-    "url": "/medicalstore/static/js/runtime-main.afded981.js"
+    "revision": "43727558d4ca103d5b8f",
+    "url": "/medicalstore/static/js/runtime-main.b0224ac1.js"
   },
   {
     "revision": "b9e633f07681fcfa7099f1760c6e8dc7",

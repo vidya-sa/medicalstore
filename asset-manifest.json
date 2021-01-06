@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/medicalstore/static/css/main.1480360e.chunk.css",
-    "main.js": "/medicalstore/static/js/main.bcb55906.chunk.js",
-    "runtime-main.js": "/medicalstore/static/js/runtime-main.afded981.js",
+    "main.js": "/medicalstore/static/js/main.8f9482f9.chunk.js",
+    "runtime-main.js": "/medicalstore/static/js/runtime-main.b0224ac1.js",
     "static/css/2.a45d04f3.chunk.css": "/medicalstore/static/css/2.a45d04f3.chunk.css",
-    "static/js/2.b909f6c7.chunk.js": "/medicalstore/static/js/2.b909f6c7.chunk.js",
-    "static/js/3.88862cd8.chunk.js": "/medicalstore/static/js/3.88862cd8.chunk.js",
-    "static/js/4.fb7857d0.chunk.js": "/medicalstore/static/js/4.fb7857d0.chunk.js",
+    "static/js/2.46f7e453.chunk.js": "/medicalstore/static/js/2.46f7e453.chunk.js",
+    "static/js/3.2af29c9a.chunk.js": "/medicalstore/static/js/3.2af29c9a.chunk.js",
+    "static/js/4.6119aa68.chunk.js": "/medicalstore/static/js/4.6119aa68.chunk.js",
     "index.html": "/medicalstore/index.html",
-    "precache-manifest.d17104754b418bff26665709f178a65a.js": "/medicalstore/precache-manifest.d17104754b418bff26665709f178a65a.js",
+    "precache-manifest.35d298ab68d6c15f4008392a6835215c.js": "/medicalstore/precache-manifest.35d298ab68d6c15f4008392a6835215c.js",
     "service-worker.js": "/medicalstore/service-worker.js",
-    "static/js/2.b909f6c7.chunk.js.LICENSE.txt": "/medicalstore/static/js/2.b909f6c7.chunk.js.LICENSE.txt",
+    "static/js/2.46f7e453.chunk.js.LICENSE.txt": "/medicalstore/static/js/2.46f7e453.chunk.js.LICENSE.txt",
     "static/media/index.css": "/medicalstore/static/media/muli-latin-900italic.fb9b3ba4.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.afded981.js",
+    "static/js/runtime-main.b0224ac1.js",
     "static/css/2.a45d04f3.chunk.css",
-    "static/js/2.b909f6c7.chunk.js",
+    "static/js/2.46f7e453.chunk.js",
     "static/css/main.1480360e.chunk.css",
-    "static/js/main.bcb55906.chunk.js"
+    "static/js/main.8f9482f9.chunk.js"
   ]
 }
